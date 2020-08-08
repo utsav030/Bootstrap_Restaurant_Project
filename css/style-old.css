@@ -70,3 +70,7 @@ body
     bottom: 0px;
     z-index: 1;
 }
+#login-id
+{
+    background: #9575CD;
+}
